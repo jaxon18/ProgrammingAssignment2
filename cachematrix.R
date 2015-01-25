@@ -26,3 +26,5 @@ cacheSolve <- function(x, …) {
                 message(“getting cached data”)
                 return(m) ##returns the calculated inverse value, given that value is not NULL, which we have assumed
         }
+        
+        ##Done
